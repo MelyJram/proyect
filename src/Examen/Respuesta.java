@@ -1,11 +1,11 @@
 package Examen;
 
-public class respuestas {
+public class Respuesta {
 
 	private String respuesta;
 	private boolean correcta;
 	
-	public respuestas(String respuesta) {
+	public Respuesta(String respuesta) {
 		this.respuesta = respuesta;
 	}
 
